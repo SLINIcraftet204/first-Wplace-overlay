@@ -38,10 +38,6 @@ Direktlinks:
 
 Das Ganze sieht dann in Tampermonkey (abhängig von der gewählten Variante) ungefähr so aus:
 
-&nbsp;  
-
-&nbsp;  !\[Addonseite von Tampermonkey](img/script-uebersicht.png)
-
 
 
 ------
